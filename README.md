@@ -14,3 +14,5 @@ El resultado debe ser un notebook en Python (Jupyter/Colab) que contenga:
 - El código desarrollado paso a paso.
 - Visualizaciones claras y comentadas.
 - Breves reflexiones en celdas de texto (Markdown) que expliquen lo observado y justifiquen las decisiones de limpieza.
+
+
