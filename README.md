@@ -16,3 +16,8 @@ El resultado debe ser un notebook en Python (Jupyter/Colab) que contenga:
 - Breves reflexiones en celdas de texto (Markdown) que expliquen lo observado y justifiquen las decisiones de limpieza.
 
 
+## Descarga y muestreo
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jvviers/analisis_datosSalud/blob/main/notebooks/01_descarga_y_muestreo.ipynb)
+
+## Análisis exploratorio
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jvviers/analisis_datosSalud/blob/main/notebooks/02_analisis_exploratorio.ipynb)
